@@ -1,4 +1,4 @@
-# rex-hs-screen
+# map-screen
 
 ## Project setup
 ```
