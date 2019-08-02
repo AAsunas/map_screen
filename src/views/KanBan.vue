@@ -1,6 +1,6 @@
 <template>
   <div class="kanban-container">
-    <top-panel></top-panel>
+    <!-- <top-panel></top-panel> -->
     <!-- <cesium-viewer></cesium-viewer> -->
     <map-viewer></map-viewer>
     <!-- <echarts-viewer></echarts-viewer> -->

@@ -8,7 +8,7 @@
         <!--楼层窗体信息-->
         <build-layer ref="buildLayerRef"></build-layer>
         <!--marks图层-->
-        <markers ref="markersRef"></markers>
+        <!-- <markers ref="markersRef"></markers> -->
     </div>
 </template>
 <script>
