@@ -8,7 +8,7 @@
     "start": "vue-cli-service serve"
   },
   "dependencies": {
-    "axios": "0.18.1",
+    "axios": "0.21.1",
     "bodymovin": "^4.13.0",
     "cesium": "^1.59.0",
     "core-js": "^2.6.5",
